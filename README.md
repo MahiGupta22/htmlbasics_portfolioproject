@@ -14,4 +14,9 @@
 2. adding color
 3. adding font
 4. adding box model(margin, padding, border)
-5. 
+5. specificity and inheritance
+6. combining selectors
+7. positioning
+
+#ADVANCED CSS
+1.
