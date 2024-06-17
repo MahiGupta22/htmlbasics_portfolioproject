@@ -9,7 +9,7 @@
 6. image elements
 7. projects on notes, movie ranker, recipe book, searching websites hyperlinked, gaming websites hyperlinked, invite making
 
-#CSS
+# CSS
 1. css types and selectors
 2. adding color
 3. adding font
@@ -18,5 +18,5 @@
 6. combining selectors
 7. positioning
 
-#ADVANCED CSS
+# ADVANCED CSS
 1.
