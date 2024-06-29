@@ -19,4 +19,7 @@
 7. positioning
 
 # ADVANCED CSS
-1.
+1. media queries
+2. grid
+3. flexbox
+4. bootstrap framework
